@@ -1,3 +1,10 @@
 RULES ONLY
 1. Age is a number and numbers are integer.
+<<<<<<< HEAD
+2. Name is string 
+3. Everything exist because something vanished
+
+=======
 !!!!!!IMPORTANT UPDATE HAS BEEN RELEASED!!!!!!
+
+
